@@ -12,9 +12,9 @@
 ```
     cd lms-frontend
 
-
-3. install dependncies
 ```
+3. install dependncies
+
     npm i
 
 ```
