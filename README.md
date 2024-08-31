@@ -8,19 +8,16 @@
 
 ```
 2.move into the dir
-
 ```
     cd lms-frontend
 
 ```
 3. install dependncies
-
-    npm i
-
+```
+npm i
 ```
 
 4.run the server
-
 ```
-     npm run dev
+ npm run dev
 ```
