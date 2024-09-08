@@ -37,7 +37,7 @@ npx tailwindcss init
 
 7.add file extensions to tailwind config  file in the content property
 ```
-"./src/**/*.{html,js,jsx,ts,tsx}"
+"./src/**/*.{html,js,jsx,ts,tsx}", "./index.html",
 ```
 8.add the tailwindd directives  at the top of the `index.css` file
 ```
@@ -49,3 +49,8 @@ npx tailwindcss init
 ```
  npm  install  @reduxjs/toolkit react-redux react-router-dom react-icon react-chartjs-2 chart.js daisyui axios  react-hot-toast @tailwindcss/line-clamp
  ```
+
+10.add the following data to config file to activate the daisyui
+```
+require("daisyui"), require("@tailwindcss/line-clamp")
+```
