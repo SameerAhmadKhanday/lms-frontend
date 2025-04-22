@@ -22,10 +22,10 @@ function AboutUs(){
                         <img 
                         id='test1'
                         style={{
-                            filter:"drop-shadow(0px 10px 10px rgb(0,0,0));"
+                            filter: "drop-shadow(0px 10px 10px rgb(0,0,0))"
                         }}
                         alt="about main img"
-                        className='drop-shadow-2xl'
+                        className="drop-shadow-2xl"
                         src="https://img.freepik.com/premium-photo/tree-with-social-media_1277187-24320.jpg?w=996" />
 
 
